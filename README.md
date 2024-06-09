@@ -7,12 +7,12 @@ The Solana Arbitrage Bot is an automated trading tool designed to identify and e
 **Disclaimer:** Trading cryptocurrencies involves risks, including the risk of losing capital. This bot is for educational and informational purposes only. Use it responsibly and at your own risk.
 
 ## Aviable DEXS
-- serum
-- aldrin
-- mercurial
+- jupiter
+- drift
+- kamino
 - orca
-- frakt
-- mango
+- raydium
+- margin
 
 ## Features
 
